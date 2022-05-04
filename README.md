@@ -3,6 +3,7 @@ Threads
 
 ## Como clonar 
 git clone https://github.com/jonguikd/atividadeThreads5
+
 cd atividadeThreads5/
 
 ## Como usar
